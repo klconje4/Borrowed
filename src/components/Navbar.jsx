@@ -5,7 +5,7 @@ export default function Navbar() {
   return (
     <nav className="navbar">
       <div className="navbar-logo">
-        <img src="/Borrowed/blogo.png" alt="Borrowed logo" />
+        <img src="/Borrowed/borrowed no bg.png" alt="Borrowed logo" />
         <span>Borrowed</span>
       </div>
       <div className="navbar-links">
